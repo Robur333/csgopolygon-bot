@@ -96,7 +96,7 @@ class User:
                 time.sleep(25)
 
 
-robur = User("roobson4","Spaleniak1","1",1)
+robur = User("roobson4","","1",1)
 
 loginBtn.click()
 time.sleep(1)
